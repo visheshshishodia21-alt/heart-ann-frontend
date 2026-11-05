@@ -31,3 +31,19 @@ disease risk using user-provided health parameters.
 This project is for educational purposes only.
 It is not a substitute for professional medical
 diagnosis or advice.
+## Live Demo
+
+### Frontend Application
+[Launch ANN Heart Disease Prediction](https://heart-ann-frontend-s16h.vercel.app/)
+
+### Backend API
+[Open Backend](https://heart-ann-backend-1.onrender.com)
+
+## Technologies
+- Python
+- TensorFlow
+- Artificial Neural Network (ANN)
+- React.js
+- FastAPI / Flask (as applicable)
+- Vercel
+- Render
